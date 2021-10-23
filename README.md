@@ -1,4 +1,4 @@
-| <img src="http://www.sc.ehu.es/mathema1/Perry1.jpg" width="400"> |
+| <img src="http://www.sc.ehu.es/mathema1/Perry1.jpg" width="300"> |
 |:--:| 
 | *Image by Edward Perry. [Source.](http://www.sc.ehu.es/mathema1/Alhambra.htm)* |
 
