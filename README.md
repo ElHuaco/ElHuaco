@@ -13,7 +13,7 @@ See my [LinkedIn](https://www.linkedin.com/in/alejandro-le%C3%B3n-castell-ba569b
 - 🖥 Member of 42 School since October 2021
 - ⚡️ Fun fact: I enjoy narrative TTRPGs and literature
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/aleon-ca?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/aleon-ca?privacyEmail=true?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElHuaco&theme=gruvbox&hide_border=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
