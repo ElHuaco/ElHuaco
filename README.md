@@ -9,7 +9,7 @@
 
 See my [LinkedIn](https://www.linkedin.com/in/alejandro-le%C3%B3n-castell-ba569b21b/) profile.
 
-- 📊 Currently studying MSc Physics of Data
+- 🎓 MSc Physics of Data
 - 🖥 42 School Member
 - ⚡️ Fun fact: I enjoy TTRPGs
 
